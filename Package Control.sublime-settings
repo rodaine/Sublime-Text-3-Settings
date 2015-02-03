@@ -1,0 +1,27 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Better CoffeeScript",
+		"DocBlockr",
+		"EditorConfig",
+		"GitGutter",
+		"GoSublime",
+		"Handlebars",
+		"HTML5",
+		"Jekyll",
+		"JSONLint",
+		"Markdown Preview",
+		"Package Control",
+		"PHP Completions Kit",
+		"PHP Modern",
+		"PHPUnit Snippets",
+		"SCSS",
+		"SideBarEnhancements",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}
