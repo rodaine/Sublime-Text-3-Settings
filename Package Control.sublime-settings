@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -19,9 +20,13 @@
 		"PHP Completions Kit",
 		"PHP Modern",
 		"PHPUnit Snippets",
+		"Protocol Buffer Syntax",
 		"SCSS",
 		"SideBarEnhancements",
 		"Theme - Soda",
 		"Tomorrow Color Schemes"
+	],
+	"repositories":
+	[
 	]
 }

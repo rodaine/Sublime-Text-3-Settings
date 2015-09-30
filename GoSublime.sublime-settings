@@ -1,4 +1,7 @@
 {
-  "fmt_tab_indent": false,
-  "fmt_tab_width": 2
+  "env": {
+    "GOPATH": "$HOME/go:$GS_GOPATH",
+    "GOROOT": "/usr/local/go"
+  },
+  "fmt_cmd": ["goimports"]
 }
