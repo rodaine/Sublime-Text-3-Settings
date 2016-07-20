@@ -51,7 +51,7 @@
 		"cloudinary"
 	],
 	"auto_complete_commit_on_tab": false,
-	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night-Eighties (SL).tmTheme",
+	"color_scheme": "Packages/User/Tomorrow-Night-Eighties.tmTheme",
 	"draw_white_space": "all",
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
@@ -61,10 +61,11 @@
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 16,
+	"font_size": 18,
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"ignore_vcs_packages": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -84,6 +85,7 @@
 		"http",
 		"id=\"a4236a51b1a3b66d1e08",
 		"mem",
+		"perma",
 		"statcounter",
 		"ww"
 	],
